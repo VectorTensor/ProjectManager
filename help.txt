@@ -1,0 +1,6 @@
+For the first time to create table use Create table run Tables.py => python3 Tables.py
+To display list => ./run.sh insert
+To add new item => ./run.sh display
+To update item completed  => ./runs.sh update
+
+
